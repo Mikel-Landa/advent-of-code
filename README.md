@@ -9,8 +9,8 @@ The repository is organized by year and day:
 ```
 advent-of-code/
 ├── 2024/
-│   ├── aoc-04/
-│   ├── aoc-05/
+│   ├── aoc-01/
+│   ├── aoc-02/
 │   └── ...
 ├── 2025/
 │   ├── aoc-01/
